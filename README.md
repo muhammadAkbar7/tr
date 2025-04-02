@@ -5,9 +5,9 @@ sends a series of ICMP echo requests and prints out information about the respon
 hop. This function allows the user to see the path the packets take from the computer to the
 destination host, akin to a traceroute.
 
-To implement these two functions successfully, I have to fulfill the goals of this assignment by
-improving the echo reply validation, making detailed output to console with detailed error and
-RTT statistics, and integrating traceroute functionality so that the program traces the path to a
+To implement these two functions successfully, I have to
+improve the echo reply validation, make detailed output to console with detailed error and
+RTT statistics, and integrate traceroute functionality so that the program traces the path to a
 destination using incremental TTL values.
 
 # How to run:
