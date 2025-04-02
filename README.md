@@ -19,3 +19,10 @@ Put it under the main function definition. Once that is done, open terminal, ens
 the same folder as the .py that holds the file, and run sudo python3 _yourFileName_.py.
 To run traceRoute, it is the same thing, however the format is the following:
 icmpHelperPing.traceRoute("put input here")
+
+# Results:
+
+![screenshot 1](./screen1.png)
+![screenshot 2](./screen2.png)
+![screenshot 3](./screen3.png)
+
